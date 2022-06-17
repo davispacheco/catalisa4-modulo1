@@ -1,0 +1,7 @@
+Algoritmo para guardar livros dentro de uma caixa:
+
+1. Pegar um dos livros.
+2. Colocar o livro dentro da caixa.
+3. Pegar o outro livro.
+4. Colocar o outro livro dentro da caixa, de forma que fique sobre o primeiro.
+5. Realizar os mesmos procedimentos até que não haja mais nenhum livro a ser guardado.
