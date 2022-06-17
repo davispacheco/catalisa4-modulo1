@@ -1,3 +1,5 @@
+Algoritmo para friar um ovo:
+
 1. Pegar a frigideira no armário da cozinha.
 2. Caminhar até o fogão.
 3. Pegar a garrafa com óleo na bancada próxima ao fogão.
