@@ -1,0 +1,63 @@
+Algoritmo para fazer café:
+
+1. Caminhar até a cozinha.
+2. Pegar o pote com pó de café de uma das prateleiras do balcão.
+3. Colocar o pote com pó de café sobre o balcão.
+4. Caminhar até o armário da cozinha.
+5. Abrir uma das gavetas do armário.
+6. Pegar uma colher de chá da gaveta do armário.
+7. Fechar a gaveta do armário.
+8. Caminhar até o balcão.
+9. Colocar a colher sobre o balcão.
+10. Pegar a cafeteira de cima do balcão.
+11. Destampar a cafeteira.
+12. Colocar a tampa da cafeteira sobre o balcão.
+13. Separar a parte reservada ao pó do recipiente de água.
+14. Segurar o recipiente reservado à agua, com a boca voltada para cima.
+15. Caminhar até a pia da cozinha.
+16. Abrir a torneira da pia até se notar uma pequena corrente de água.
+17. Colocar água no recipiente equivalente a três xícaras de café.
+18. Desligar a torneira.
+19. Caminhar até o balcão.
+20. Colocar o recipiente de água sobre o balcão.
+21. Pegar a parte reservada ao pó de cima do balcão.
+22. Encaixar a parte reservada ao pó no recipiente de água.
+23. Pegar a colher de cima do balcão.
+24. Destampar o pote com pó de café.
+25. Colocar a tampa do pote sobre o balcão.
+26. Pegar a colher de cima do balcão.
+27. Introduzir a colher no pote, enchendo-a com pó de café.
+28. Levar a colher cuidadosamente até a parte reservada ao pó de café.
+29. Realizar os procedimentos 27 e 28 por mais duas vezes.
+30. Colocar a colher sobre o balcão.
+31. Pegar a tampa do pote de cima do balcão.
+32. Tampar o pote com pó de café.
+33. Pegar a tampa da cafeteira de cima do balcão.
+34. Tampar a cafeteira.
+35. Pegar a cafeteira de cima do balcão.
+36. Caminhar até o fogão.
+37. Colocar a cafeteira sobre o fogão.
+38. Acender o fogo.
+39. Esperar 10 minutos até que a água ferva e se una ao pó de café.
+40. Desligar o fogo.
+41. Aguardar a cafeteira coar o café.
+42. Pegar a cafeteira de cima do fogão.
+43. Colocar a cafeteira sobre o balcão.
+44. Caminhar até o armário.
+45. Pegar a garrafa térmica do armário.
+46. Pegar o açucareiro do armário.
+47. Pegar a colher de dentro do açucareiro.
+48. Caminhar até o balcão.
+49. Colocar a garrafa térmica sobre o balcão.
+50. Adoçar o café.
+51. Destampar a garrafa térmica.
+52. Colocar a tampa da garrafa térmica sobre o balcão.
+53. Colocar o café na garrafa.
+54. Pegar a tampa da garrafa térmica de cima do balcão.
+55. Tampar a garrafa térmica.
+56. Colocar a garrafa térmica sobre a mesa da cozinha.
+57. Pegar o pote com pó de café de cima do balcão.
+58. Guardar o pote em uma das prateleiras do balcão.
+59. Pegar a cafeteira e a colher de cima do balcão.
+60. Caminhar até a pia da cozinha.
+61. Colocar a cafeteira e a colher dentro da cuba da pia.
