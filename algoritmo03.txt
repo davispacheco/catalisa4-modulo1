@@ -1,0 +1,9 @@
+Algoritmo para zerar uma fila de banco:
+
+1. Certificar-se de quem chegou primeiro à fila.
+2. Perguntar ao cliente qual serviço necessita.
+3. Direcionar o cliente ao serviço desejado.
+4. Retornar à fila.
+5. Perguntar ao segundo cliente.
+6. Direcionar o cliente ao serviço pretendido.
+7. Realizar os procedimentos anteriores até que não haja mais ninguém na fila.
